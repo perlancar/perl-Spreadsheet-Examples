@@ -21,30 +21,30 @@ spreadsheet files, usually for testing or benchmarking purposes:
 A workbook containing 10 sheets, each sheet containing 10 rows and 10 columns.
 The cells are numbers. Minimum formatting.
 
-#FILE: 10sheet-10row-10col.ods
-#FILE: 10sheet-10row-10col.xlsx
+#FILE: share/10sheet-10row-10col.ods
+#FILE: share/10sheet-10row-10col.xlsx
 
 =item * 10sheet-1000row-10col
 
 A workbook containing 10 sheets, each sheet containing 1000 rows and 10 columns.
 The cells are numbers. Minimum formatting.
 
-#FILE: 10sheet-1000row-10col.ods
-#FILE: 10sheet-1000row-10col.xlsx
+#FILE: share/10sheet-1000row-10col.ods
+#FILE: share/10sheet-1000row-10col.xlsx
 
 =item * 10sheet-empty
 
 Empty 10-sheet workbook.
 
-#FILE: 10sheet-empty.ods
-#FILE: 10sheet-empty.xlsx
+#FILE: share/10sheet-empty.ods
+#FILE: share/10sheet-empty.xlsx
 
 =item * empty
 
 Empty single-sheet workbook.
 
-#FILE: empty.ods
-#FILE: empty.xlsx
+#FILE: share/empty.ods
+#FILE: share/empty.xlsx
 
 =back
 
