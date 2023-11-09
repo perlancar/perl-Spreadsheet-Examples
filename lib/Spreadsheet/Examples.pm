@@ -16,21 +16,35 @@ spreadsheet files, usually for testing or benchmarking purposes:
 
 =over
 
-=item * 10sheet-10row-10col.{ods,xlsx}
+=item * 10sheet-10row-10col
 
 A workbook containing 10 sheets, each sheet containing 10 rows and 10 columns.
 The cells are numbers. Minimum formatting.
 
-=item * 10sheet-1000row-10col.{ods,xlsx}
+#FILE: 10sheet-10row-10col.ods
+#FILE: 10sheet-10row-10col.xlsx
+
+=item * 10sheet-1000row-10col
 
 A workbook containing 10 sheets, each sheet containing 1000 rows and 10 columns.
 The cells are numbers. Minimum formatting.
 
-=item * 10sheet-empty.{ods,xlsx}
+#FILE: 10sheet-1000row-10col.ods
+#FILE: 10sheet-1000row-10col.xlsx
+
+=item * 10sheet-empty
 
 Empty 10-sheet workbook.
 
-=item * empty.{ods,xlsx}
+#FILE: 10sheet-empty.ods
+#FILE: 10sheet-empty.xlsx
+
+=item * empty
+
+Empty single-sheet workbook.
+
+#FILE: empty.ods
+#FILE: empty.xlsx
 
 =back
 
