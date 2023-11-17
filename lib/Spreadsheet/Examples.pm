@@ -48,4 +48,12 @@ Empty single-sheet workbook.
 
 =back
 
+
+=head1 SEE ALSO
+
+L<Acme::CPANModules::Spreadsheet> for spreadsheet-related modules.
+
+Other C<*::Examples> modules e.g. L<TextDoc::Examples>. Also see
+L<Acme::CPANModules::TextDoc>.
+
 =cut
